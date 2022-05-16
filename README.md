@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xTooth
+- 👋 Hi, I’m Kim
 - 👀 I’m interested in all things developement, specially migration and integration related tools
 - 🌱 I’m currently learning and deepening my knowledge of Apache Airflow
 - 💞️ I’m looking to collaborate on laid back 'for fun' projects
