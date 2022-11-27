@@ -27,3 +27,4 @@ Some technologies I've had the opportunity to leverage professionally:
   - Oracle SQL
 - AWS:
   - s3 
+- Shell and Batch file scripting
