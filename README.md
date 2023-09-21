@@ -15,7 +15,7 @@ Some technologies I've had the opportunity to leverage professionally:
   - Hibernate
   - Lombok
 - Python:
-  - Apache Airflow
+  - [Apache Airflow (Certified)](https://www.credly.com/badges/4f83873e-ed57-4070-aa80-138ca6f45157/public_url)
   - Fast API
 - JS and TS
   - Angular
@@ -28,3 +28,4 @@ Some technologies I've had the opportunity to leverage professionally:
 - AWS:
   - s3 
 - Shell and Batch file scripting
+
