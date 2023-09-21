@@ -16,7 +16,7 @@ Some technologies I've had the opportunity to leverage professionally:
   - Lombok
 - Python:
   - [Apache Airflow (Certified)](https://www.credly.com/badges/4f83873e-ed57-4070-aa80-138ca6f45157/public_url)
-  - Fast API
+  - FastAPI
 - JS and TS
   - Angular
   - React
