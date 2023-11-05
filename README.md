@@ -15,7 +15,7 @@ Some technologies I've had the opportunity to leverage professionally:
   - Hibernate
   - Lombok
 - Python:
-  - [Apache Airflow (Certified)](https://www.credly.com/badges/4f83873e-ed57-4070-aa80-138ca6f45157/public_url)
+  - Certified for [Apache Airflow](https://www.credly.com/badges/4f83873e-ed57-4070-aa80-138ca6f45157/public_url) [twice 😄](https://www.credly.com/badges/bf56c943-98de-482d-b667-389540962031/public_url)
   - FastAPI
 - JS and TS
   - Angular
